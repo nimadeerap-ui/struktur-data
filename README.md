@@ -1,9 +1,4 @@
-## 🔥 Kalau mau 2 baris (lebih rapi kayak gambar)
-
-Pakai tanda \n:
-
-markdown
-mermaid
+```mermaid
 flowchart TD
     A([Mulai]) --> B[/Input data peminjam/]
     B --> C[Enqueue\n(Tambahkan ke antrian)]
